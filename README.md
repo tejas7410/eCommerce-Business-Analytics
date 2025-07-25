@@ -35,11 +35,11 @@ Below are screenshots of the interactive Power BI dashboard:
 
 ### **1. Business Overview**
 
-![Business Overview](/Ecommerce%20Analysis/DashBoard.png)
+![Business Overview](/DashBoard.png)
 
 ### **2. Review & Delivery Analysis**
 
-![ERD](/Ecommerce%20Analysis/ERD.png)
+![ERD](/ERD.png)
 
 ---
 
