@@ -62,19 +62,14 @@ ecommerce-business-analysis/
 
 ### **1. Database Setup**
 
-- Import all CSV files into MySQL using `schema_setup.sql`.
+- Import all CSV files into MySQL using `Mysqlsetup.sql`.
 - Verify data by running sample queries.
 
 ### **2. Power BI Setup**
 
 - Connect Power BI to MySQL using **ODBC** or **MySQL connector**.
 - Import all tables and create relationships.
-- Use `kpi_queries.sql` as the source for creating DAX measures and visuals.
-
-### **3. Dashboard**
-
-- Open **eCommerce_Analysis.pbix** to view the complete dashboard.
-- Export as PDF for sharing: **File → Export → Export to PDF**.
+- Use `kpi.sql` as the source for creating DAX measures and visuals.
 
 ---
 
